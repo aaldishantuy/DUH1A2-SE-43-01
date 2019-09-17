@@ -1,0 +1,21 @@
+/////DATA DIRI\\\\\
+
+Nama			: Aldiansyah
+NIM			: 1302190051
+Tempat, Tanggal Lahir	: Bandung,15 Oktober 2000
+Jenis Kelamin		: Laki-laki
+Agama			: Islam
+Alamat			: Kp.Mangga Dua Desa sukapura Kecamatan DayeuhKolot Kabupaten Bandung Jawa Barat
+No.Telpon		: 082120813181
+Hobby			: Bermusik, Bermain Game
+
+/////RIWAYAT PENDIDIKAN\\\\\
+
+SD			: SDN SUKAPURA 02
+SMP			: SMPN 1 DayeuhKolot
+SMA			: SMAN 1 DayeuhKolot
+
+/////MEDIA SOSIAL\\\\\	
+c
+Whatsapp		: 082120813181
+LINE			: adletmayer9
